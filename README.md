@@ -3,6 +3,7 @@
 💻 Passionate developer from India, constantly learning and building new projects.
 
 🚀 About Me
+
 🌱 Currently learning Python and Web Development
 💡 Interested in Software Development, Automation, and Game Development
 🎯 Goal: Become a skilled software engineer by building real-world projects
