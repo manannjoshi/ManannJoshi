@@ -6,8 +6,8 @@
 🌱 Currently learning Python and Web Development
 💡 Interested in Software Development, Automation, and Game Development
 🎯 Goal: Become a skilled software engineer by building real-world projects
-🌐 Portfolio
 
+🌐 Portfolio
 🔗 https://manan.is-a.dev/
 
 My personal portfolio showcasing my projects, skills, and development journey.
