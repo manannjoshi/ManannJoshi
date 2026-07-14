@@ -1,24 +1,27 @@
-👋 Hi, I'm Manan Joshi
+# Hi, I'm Manan Joshi
 
-💻 Passionate developer from India, constantly learning and building new projects.
+Developer from India, focused on building real-world projects and continuously learning new technologies.
 
-🚀 About Me
+## About Me
 
-🌱 Currently learning Python and Web Development
-💡 Interested in Software Development, Automation, and Game Development
-🎯 Goal: Become a skilled software engineer by building real-world projects
+- Currently learning Python and Web Development
+- Interested in Software Development, Automation, and Game Development
+- Goal: become a skilled software engineer through hands-on projects
 
-🌐 Portfolio
-🔗 https://manan.is-a.dev/
+## Portfolio
 
-My personal portfolio showcasing my projects, skills, and development journey.
+[manan.is-a.dev](https://manan.is-a.dev/)
 
-📈 Currently Working On
-🐍 Improving my Python skills
-⚡ Learning modern JavaScript
-🚀 Building more portfolio-worthy projects
-📫 Connect With Me
+A personal portfolio showcasing my projects, skills, and development journey.
 
-Feel free to explore my repositories or reach out!
+## Currently Working On
 
-📧 mananjoshi.dev@gmail.com
+- Improving my Python skills
+- Learning modern JavaScript
+- Building more portfolio-worthy projects
+
+## Connect
+
+Feel free to explore my repositories or reach out.
+
+Email: mananjoshi.dev@gmail.com
