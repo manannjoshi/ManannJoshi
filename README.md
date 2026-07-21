@@ -4,8 +4,8 @@ Developer from India, focused on building real-world projects and continuously l
 
 ## About Me
 
-- Currently learning Python and Web Development
-- Interested in Software Development, Automation, and Game Development
+- Currently learning C++ and Web Development.
+- Interested in Game Development, Software Development and Automation
 - Goal: become a skilled software engineer through hands-on projects
 
 ## Portfolio
@@ -16,7 +16,7 @@ A personal portfolio showcasing my projects, skills, and development journey.
 
 ## Currently Working On
 
-- Improving my Python skills
+- C++ Basics
 - Learning modern JavaScript
 - Building more portfolio-worthy projects
 
