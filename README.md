@@ -16,7 +16,7 @@ A personal portfolio showcasing my projects, skills, and development journey.
 
 ## Currently Working On
 
-- C++ Basics
+- C++
 - Learning modern JavaScript
 - Building more portfolio-worthy projects
 
