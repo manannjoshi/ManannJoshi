@@ -2,14 +2,6 @@
 
 <div align="center">
 
-**Student @ The NorthCap University**
-
-</div>
-
----
-
-<div align="center">
-
 ## About Me
 
 </div>
