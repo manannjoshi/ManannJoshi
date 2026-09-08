@@ -8,7 +8,7 @@
 
 - **Currently learning:** C++ and Web Development.
 - **Interested in:** Game Development, Software Development, and Automation.
-- **Goal:** Become a skilled software engineer through hands-on projects.
+- **Goal:** Become a skilled software engineer.
 
 ---
 
