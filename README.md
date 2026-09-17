@@ -26,18 +26,18 @@ Working through C fundamentals in college, pushing to [`learningc`](https://gith
 
 ### Shipped
 
-> **[Portfolio Site](manan.is-a.dev)**: hand-built HTML/CSS, own domain at [manan.is-a.dev](https://manan.is-a.dev). Second one I've built from scratch.
+> **[Portfolio Site](manan.is-a.dev)**: hand-built `HTML` and `CSS`, own domain at [manan.is-a.dev](https://manan.is-a.dev). Second one I've built from scratch.
 
 > **[Password Generator](https://github.com/manannjoshi/Password-Generator)**: Python, `secrets` lib, compiled to a Windows `.exe`, released via GitHub Actions.
 
-> **[T-Rex Runner](https://github.com/manannjoshi/trex)**: the Chrome dino game, remade in JS with p5.js.
+> **[T-Rex Runner](https://github.com/manannjoshi/trex)**: the Chrome dino game, remade in JS with `p5.js`.
 
 > **[Shopping List Manager](https://github.com/manannjoshi/shoppingListManager)**: Made in C++ with the `fstream` and `sstream` libraries.
 
 ---
 
 <div align="center">
-
+  Contact me at
 📫 mananjoshi.dev@gmail.com
 
 </div>
